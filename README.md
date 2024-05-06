@@ -11,7 +11,7 @@ i was shadowbanned on my other account :|
  
  VERSION 1 IS OUT!
 
- MULTIPLE FEAUTRES SUCH AS
+ MULTIPLE FEATURES SUCH AS
 
  1. SPEED HACK
  2. JUMP POWER CHANGER
@@ -23,8 +23,9 @@ ALL IN REMHUB FOR A GRAND PRICE OF....
 Monthly: $0.00
 Annually: $0.00
 
+
+
 🔽loadstring🔽
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/powgoesthecowUNBANNED/remhub/main/remHUBv1.txt'))()
 
-note: jk i know this script sux but who cares im bored
