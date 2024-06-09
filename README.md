@@ -27,5 +27,4 @@ Annually: $0.00
 
 🔽loadstring🔽
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/powgoesthecowUNBANNED/remhub/main/remHUBv1.txt'))()
-
+loadstring(game:HttpGet(https://raw.githubusercontent.com/powgoesthecowUNBANNED/remhub/main/remHUBv1.txt)
